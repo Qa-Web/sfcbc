@@ -1,6 +1,6 @@
 ### Hi there, I am Sefa Cebeci👋
 
-## Full Stack Automation Engineer
+## QA Test Engineer
 
 
 
